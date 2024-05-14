@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akashsharma25/zomatoui-clone-react-app/static/css/main.2c9d6f87.css",
+    "main.js": "/Akashsharma25/zomatoui-clone-react-app/static/js/main.38f459b2.js",
+    "static/js/787.710b6ff5.chunk.js": "/Akashsharma25/zomatoui-clone-react-app/static/js/787.710b6ff5.chunk.js",
+    "index.html": "/Akashsharma25/zomatoui-clone-react-app/index.html",
+    "main.2c9d6f87.css.map": "/Akashsharma25/zomatoui-clone-react-app/static/css/main.2c9d6f87.css.map",
+    "main.38f459b2.js.map": "/Akashsharma25/zomatoui-clone-react-app/static/js/main.38f459b2.js.map",
+    "787.710b6ff5.chunk.js.map": "/Akashsharma25/zomatoui-clone-react-app/static/js/787.710b6ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9d6f87.css",
+    "static/js/main.38f459b2.js"
+  ]
+}
